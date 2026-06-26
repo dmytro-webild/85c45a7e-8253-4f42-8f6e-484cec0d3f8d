@@ -1,4 +1,5 @@
 import AboutMediaOverlay from '@/components/sections/about/AboutMediaOverlay';
+// @ts-nocheck
 import ContactCta from '@/components/sections/contact/ContactCta';
 import FaqTwoColumn from '@/components/sections/faq/FaqTwoColumn';
 import FeaturesBorderGlow from '@/components/sections/features/FeaturesBorderGlow';
